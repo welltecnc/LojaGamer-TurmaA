@@ -24,10 +24,6 @@ function SlideShow(){
 SlideShow();
 
 
-
-
-
-
 const menuIcone = document.getElementById("menu-icone");
 const navMenu = document.getElementById("nav-menu");
 
